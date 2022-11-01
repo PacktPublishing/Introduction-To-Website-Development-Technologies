@@ -13,7 +13,3 @@ Learn how to build a website using HTML and CSS and Visual Studio Code. By the e
 - How to design a form to collect data.
 - How to use Bootstrap 5
 - How To Use Javascript
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781803235189">https://packt.link/free-ebook/9781803235189 </a> </p>
