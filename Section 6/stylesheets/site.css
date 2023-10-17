@@ -1,0 +1,37 @@
+h1{
+    color: rgb(52, 94, 173);
+}
+h2{
+    color: crimson;
+    text-decoration: overline;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#banner{
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+#banner p{
+    margin: 0;
+}
+
+article{
+    margin-bottom: 50px;
+}
+
+.logo{
+    height: 50px;
+    width: 50px;
+}
+
+.DifferentLookingText{
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.WeirdColor{
+    color: darkmagenta;
+}
